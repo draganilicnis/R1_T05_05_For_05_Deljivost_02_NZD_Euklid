@@ -1,0 +1,35 @@
+R1_T05_05_For_05_Deljivost_02_NZD_Euklid
+
+Google Disk: https://drive.google.com/drive/folders/1vSrUDgqMMkzWNuuGhM7SZ67TEo6wITdU?usp=drive_link
+
+Petlja:
+Kursevi:
+1.R1_T05_05_For_05_Deljivost_02_NZD_Euklid (https://petlja.org/sr-Latn-RS/kurs/19879/23/2758) 0.1s (Učenici na istim sedištima, Bilijar iz ćoška)
+2.R3_T01_04_NZD (https://petlja.org/sr-Latn-RS/kurs/19878/1/5320) 0.1s (Učenici na istim sedištima, Bilijar iz ćoška)
+
+Zbirke:
+0.Zbirka stara: R1_T05_05_Teorija_brojeva:                 https://petlja.org/sr-Latn-RS/biblioteka/r/problemi/Zbirka-stara/euklid 1s
+1.Zbirka 2: R2_T02_Slozenost_01_Zamena_iteracije_formulom: https://petlja.org/sr-Latn-RS/biblioteka/r/Zbirka2/euklid 1.55s
+2.Zbirka 3: R3_T01_Algebarski_04_Teorija_brojava:          https://petlja.org/sr-Latn-RS/biblioteka/r/Zbirka3/euklid 0.1s
+
+Lekcije:
+1.https://petljamediastorage.blob.core.windows.net/root/Media/Default/Lecture/Matematicki%20Algoritmi%201/Matematicki%20algoritmi%20I%20-%20Euklidov%20algoritam.pdf
+
+Arena:
+1.R2_T02_01_Zamena_iteracije formulom: https://arena.petlja.org/sr-Latn-RS/competition/r2-t01-slozenost-t02-02-zamena-iteracije-dom#tab_132330 1.55s
+2.R2_T02_01_Zamena_iteracije formulom R1_T05_Deljivost_NZD_TLE_002_2024: https://arena.petlja.org/sr-Latn-RS/competition/r1-t05-deljivost-nzd-tle-002-2024
+3.https://arena.petlja.org/sr-Latn-RS/competition/r1-03-petlje-04-deljivost#tab_132330 1.55s
+4.R2_T03_Rekurzije: https://arena.petlja.org/sr-Latn-RS/competition/r2-t03-rekurzije-01-2024#tab_132330
+5.R3_T01_Algebarski_algoritmi_T04_NZD: https://arena.petlja.org/sr-Latn-RS/competition/r3-t01-algebarski-algoritmi-t04-nzd
+6.R1_T06_Metode i R2_T01_Korektnost: NZS: https://arena.petlja.org/sr-Latn-RS/competition/r1-06-metode-01-staticke-metode-2024#tab_29825 1s
+7.Tkm_pripreme 001: Euklid https://arena.petlja.org/sr-Latn-RS/competition/tkm001#tab_91515 1s
+8.Tkm_pripreme 001: NZS: https://arena.petlja.org/sr-Latn-RS/competition/tkm001#tab_29825 1s
+
+GitHub:
+https://github.com/draganilicnis/R1_T05_05_For_05_Deljivost_02_NZD_Euklid.git
+  
+
+Linkovi:
+1.Vikipedija NZD: https://sr.wikipedia.org/sr-ec/%D0%9D%D0%B0%D1%98%D0%B2%D0%B5%D1%9B%D0%B8_%D0%B7%D0%B0%D1%98%D0%B5%D0%B4%D0%BD%D0%B8%D1%87%D0%BA%D0%B8_%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B0%D1%86
+2.Vikipedija Euklidov algoritam: https://sr.wikipedia.org/wiki/%D0%95%D1%83%D0%BA%D0%BB%D0%B8%D0%B4%D0%BE%D0%B2_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%B0%D0%BC
+3.YT: https://www.youtube.com/watch?v=aWzolRmHYCM
