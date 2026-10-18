@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Bingo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-10-18 05:45:17 po podne"/>
+        <attribute name="created" value="QmluZ287RFVTQU4zOzIwMjYtMTAtMTg7MDU6Mzc6MjIgcG8gcG9kbmU7Mjg0MA=="/>
+        <attribute name="edited" value="QmluZ287RFVTQU4zOzIwMjYtMTAtMTg7MDU6NDU6MTcgcG8gcG9kbmU7NTsyOTU1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a" type="Integer" array="False" size=""/>
+            <declare name="b" type="Integer" array="False" size=""/>
+            <input variable="a"/>
+            <input variable="b"/>
+            <declare name="c" type="Integer" array="False" size=""/>
+            <assign variable="c" expression="NZD(a, b)"/>
+            <output expression="c" newline="True"/>
+        </body>
+    </function>
+    <function name="NZD" type="Integer" variable="a">
+        <parameters>
+            <parameter name="a" type="Integer" array="False"/>
+            <parameter name="b" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <while expression="b &gt; 0">
+                <declare name="p" type="Integer" array="False" size=""/>
+                <assign variable="p" expression="a % b"/>
+                <assign variable="a" expression="b"/>
+                <assign variable="b" expression="p"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
